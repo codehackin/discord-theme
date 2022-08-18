@@ -1,10 +1,10 @@
 {
-  "name": "LinesAndLines",
+  "name": "Sexy Anime Girls",
   "version": "1.0",
-  "description": "Lines And Lines And Lines theme :)",
+  "description": "hentai as per darklights request",
   "authors": [
     {
-      "name": "melonwer",
+      "name": "code",
       "id": "848518188195250176"
     }
   ],
@@ -153,4 +153,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": 
+    "url": "https://media.discordapp.net/attachments/687044332573687832/1009344191534465074/image0.jpg",
+    "alpha": 1.0
+  }
+}
