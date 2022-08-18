@@ -1,16 +1,17 @@
+
 {
-  "name": "Sexy Anime Girls",
+  "name": "Pink_iphone",
   "version": "1.0",
-  "description": "hentai as per darklights request",
+  "description": "Pink Anime Theme",
   "authors": [
     {
-      "name": "code",
-      "id": "593561211740749855"
+      "name": "melonwer",
+      "id": "848518188195250176"
     }
   ],
-   "theme_color_map": {
+  "theme_color_map": {
     "KEYBOARD": [
-      "#1a1926",
+      "#0a0408",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
@@ -30,7 +31,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7f239e",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,7 +39,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#af65f0",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -122,7 +123,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#aa14f5",
+      "#ff63bc",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
@@ -130,7 +131,7 @@
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#aa14f5",
+      "#ff63bc",
       "#6c56c4"
     ]
   },
